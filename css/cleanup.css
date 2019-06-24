@@ -1,1 +1,12 @@
-/* write your override styles here */
+/* write your override style */
+#wall .tag-1 {
+  display: none;
+}
+ 
+.parent {
+  display: none;
+}
+
+#tag-3 .slickwicked {
+  display: none;
+}
